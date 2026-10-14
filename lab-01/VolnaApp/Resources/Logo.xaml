@@ -1,0 +1,31 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <DrawingImage x:Key="LogoImage">
+        <DrawingImage.Drawing>
+            <DrawingGroup>
+                <GeometryDrawing Brush="#FF141019">
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry Rect="0,0,512,512"/>
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+                <GeometryDrawing Brush="#FFA78BFA">
+                    <GeometryDrawing.Geometry>
+                        <GeometryGroup>
+                            <RectangleGeometry Rect="50,195,28,120" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="98,160,28,230" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="146,195,28,70" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="194,185,28,160" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="242,215,28,60" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="290,86,28,340" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="338,215,28,140" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="386,130,28,210" RadiusX="14" RadiusY="14"/>
+                            <RectangleGeometry Rect="434,220,28,100" RadiusX="14" RadiusY="14"/>
+                        </GeometryGroup>
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+
+</ResourceDictionary>
