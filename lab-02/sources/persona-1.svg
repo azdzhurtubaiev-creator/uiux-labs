@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1123" height="794" viewBox="0 0 1123 794"><rect width="1123" height="794" fill="#141019"/>
+<g transform="translate(48 36) scale(0.0859375)">
+<rect width="512" height="512" rx="90" fill="#1C1724"/>
+<rect x="50" y="195" width="28" height="120" rx="14" fill="#A78BFA"/>
+<rect x="98" y="160" width="28" height="230" rx="14" fill="#A78BFA"/>
+<rect x="146" y="195" width="28" height="70" rx="14" fill="#A78BFA"/>
+<rect x="194" y="185" width="28" height="160" rx="14" fill="#A78BFA"/>
+<rect x="242" y="215" width="28" height="60" rx="14" fill="#A78BFA"/>
+<rect x="290" y="86" width="28" height="340" rx="14" fill="#A78BFA"/>
+<rect x="338" y="215" width="28" height="140" rx="14" fill="#A78BFA"/>
+<rect x="386" y="130" width="28" height="210" rx="14" fill="#A78BFA"/>
+<rect x="434" y="220" width="28" height="100" rx="14" fill="#A78BFA"/>
+</g>
+<text x="106" y="56" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" fill="#F5F3FA" font-weight="bold">Volna · User Persona</text>
+<text x="106" y="76" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#9C96AD">Primary Persona</text>
+<line x1="48" y1="98" x2="1075" y2="98" stroke="#2A2433" stroke-width="1"/><rect x="48" y="122" width="330" height="624" rx="16" fill="#1C1724"/><g transform="translate(78 152) scale(0.17578125)">
+<rect width="512" height="512" rx="90" fill="#1C1724"/>
+<rect x="50" y="195" width="28" height="120" rx="14" fill="#A78BFA"/>
+<rect x="98" y="160" width="28" height="230" rx="14" fill="#A78BFA"/>
+<rect x="146" y="195" width="28" height="70" rx="14" fill="#A78BFA"/>
+<rect x="194" y="185" width="28" height="160" rx="14" fill="#A78BFA"/>
+<rect x="242" y="215" width="28" height="60" rx="14" fill="#A78BFA"/>
+<rect x="290" y="86" width="28" height="340" rx="14" fill="#A78BFA"/>
+<rect x="338" y="215" width="28" height="140" rx="14" fill="#A78BFA"/>
+<rect x="386" y="130" width="28" height="210" rx="14" fill="#A78BFA"/>
+<rect x="434" y="220" width="28" height="100" rx="14" fill="#A78BFA"/>
+</g><text x="78" y="282" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#F5F3FA" font-weight="bold">Денис Ковальчук</text><text x="78" y="306" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#9C96AD" font-weight="normal">Студент 2 курсу, інженерія ПЗ</text><line x1="78" y1="330" x2="348" y2="330" stroke="#2A2433"/><text x="78" y="358" font-family="DejaVu Sans, Arial, sans-serif" font-size="13.5" fill="#A78BFA" font-weight="normal">"Не хочу витрачати 10 хвилин на</text>
+<text x="78" y="377" font-family="DejaVu Sans, Arial, sans-serif" font-size="13.5" fill="#A78BFA" font-weight="normal">вибір треків — хочу натиснути</text>
+<text x="78" y="396" font-family="DejaVu Sans, Arial, sans-serif" font-size="13.5" fill="#A78BFA" font-weight="normal">«вчитись» і працювати."</text><text x="78" y="443" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#A78BFA" font-weight="bold" letter-spacing="0.8">ДЕМОГРАФІЯ</text>
+<text x="78" y="465" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- 20 років, Харків, живе в</text>
+<text x="78" y="483" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  гуртожитку</text>
+<text x="78" y="505" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Навчається очно, підробляє на</text>
+<text x="78" y="523" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  фрилансі</text>
+<text x="78" y="545" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Android, навушники TWS, безлім</text>
+<text x="78" y="563" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  мобільного інтернету</text><text x="78" y="595" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#9C96AD">Технічна впевненість</text>
+<rect x="238" y="585" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="260" y="585" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="282" y="585" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="304" y="585" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="326" y="585" width="16" height="10" rx="3" fill="#A78BFA"/><text x="78" y="621" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#9C96AD">Залученість у музику</text>
+<rect x="238" y="611" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="260" y="611" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="282" y="611" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="304" y="611" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="326" y="611" width="16" height="10" rx="3" fill="#2A2433"/><text x="78" y="647" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#9C96AD">Терпимість до пошуку</text>
+<rect x="238" y="637" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="260" y="637" width="16" height="10" rx="3" fill="#A78BFA"/>
+<rect x="282" y="637" width="16" height="10" rx="3" fill="#2A2433"/>
+<rect x="304" y="637" width="16" height="10" rx="3" fill="#2A2433"/>
+<rect x="326" y="637" width="16" height="10" rx="3" fill="#2A2433"/><text x="408" y="142" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#A78BFA" font-weight="bold" letter-spacing="0.8">КОНТЕКСТ ВИКОРИСТАННЯ</text>
+<text x="408" y="164" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Слухає музику 4-6 годин на день: пари,</text>
+<text x="408" y="182" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  дорога, самостійна робота</text>
+<text x="408" y="204" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Музика - фон для концентрації, а не</text>
+<text x="408" y="222" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  самостійне заняття</text>
+<text x="408" y="244" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Перемикає пристрої: телефон у дорозі,</text>
+<text x="408" y="262" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  ноутбук удома</text><text x="408" y="302" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#A78BFA" font-weight="bold" letter-spacing="0.8">ЦІЛІ</text>
+<text x="408" y="324" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Швидко запустити відповідний фон під</text>
+<text x="408" y="342" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  конкретне заняття</text>
+<text x="408" y="364" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Не відволікатись на добір треків під час</text>
+<text x="408" y="382" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  роботи</text>
+<text x="408" y="404" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Мати окремі добірки для навчання, дороги та</text>
+<text x="408" y="422" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  сну</text><text x="408" y="462" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#A78BFA" font-weight="bold" letter-spacing="0.8">БОЛЬОВІ ТОЧКИ</text>
+<text x="408" y="484" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Стандартні рекомендації підкидають бадьорі</text>
+<text x="408" y="502" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  треки посеред навчання</text>
+<text x="408" y="524" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Пошук потрібного плейлиста займає більше</text>
+<text x="408" y="542" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  часу, ніж хотілося б</text>
+<text x="408" y="564" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Плейлисти з вокалом заважають читати</text>
+<text x="408" y="582" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  технічні тексти</text>
+<text x="408" y="604" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">- Увечері яскравий білий інтерфейс різкий для</text>
+<text x="408" y="622" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">  очей</text><rect x="774" y="126" width="301" height="300" rx="14" fill="#1C1724"/><text x="790" y="158" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#A78BFA" font-weight="bold" letter-spacing="0.8">СЦЕНАРІЙ ВЗАЄМОДІЇ</text>
+<text x="790" y="180" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">Сідає за курсову о 21:00. Відкриває</text>
+<text x="790" y="203" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">Volna, на головному екрані обирає</text>
+<text x="790" y="226" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">сценарій «Навчання», застосунок</text>
+<text x="790" y="249" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">одразу вмикає інструментальну</text>
+<text x="790" y="272" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">добірку без різких змін гучності.</text>
+<text x="790" y="295" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">Через дві години перемикає на «Сон»</text>
+<text x="790" y="318" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">одним дотиком і не повертається до</text>
+<text x="790" y="341" font-family="DejaVu Sans, Arial, sans-serif" font-size="12.5" fill="#F5F3FA" font-weight="normal">телефона.</text></svg>
